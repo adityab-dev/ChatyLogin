@@ -1,0 +1,25 @@
+.footerContent{
+  background: #6100FF;
+  text-align: center;
+}
+
+.footerMsg {
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.footerBtn {
+  background: #BD00FF;
+  border-radius: 3px;
+  color: black;
+  border: none;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+.footerImg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}

@@ -1,0 +1,28 @@
+button {
+  background-color: #BD00FF;
+  border-radius: 3px;
+  color: white;
+  border: none;
+  font-size: 15px;
+  line-height: 23px;
+  padding: -.5rem 0rem;
+  margin: 1rem;
+}
+
+.loginContent {
+  background: #6100FF;
+  display: flex;
+  justify-content: space-between;
+}
+
+h2 {
+  margin: 0;
+}
+
+.contentLeft {
+  display: flex;
+}
+
+.contentRight {
+  display: flex;
+}
