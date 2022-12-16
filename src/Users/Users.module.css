@@ -1,0 +1,53 @@
+.users {
+  width: 25vw;
+  background: #323232;
+}
+
+.main {
+  margin: 1.5rem;
+  color: #676767;
+}
+
+.heading {
+  color: white;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.25px;
+}
+
+.emoji {
+  font-size: 80px;
+  color: #676767;
+}
+
+.fanDetails {
+  text-align: center;
+}
+
+.details {
+  display: flex;
+}
+
+.images {
+  width: 40px;
+  height: 40px;
+  margin-top: 10px;
+}
+
+.content {
+  /* margin-bottom: 0px; */
+  margin-left: 1rem;
+  font-size: 12.5px;
+}
+
+.ownername {
+  color: #8000ff;
+}
+
+.adminname {
+  color: #db00ff;
+}
+
+.botname {
+  color: #db00ff;
+}

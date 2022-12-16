@@ -1,16 +1,17 @@
-import './App.css';
-import LoginHeader from './LoginHeader/LoginHeader';
-import Main from './Main/Main';
-import Footer from './Footer/Footer';
+import styles from "./App.module.css";
+
+import ChatroomSelectBar from "./ChatroomSelectBar/ChatroomSelectBar";
+import ChatWindow from "./ChatWindow/ChatWindow";
+import ServerSelectBar from "./SelectServerBar/SelectServerBar";
+import Users from "./Users/Users";
 
 function App() {
-  console.clear()
-  
   return (
-    <div className="App">
-      <LoginHeader />
-      <Main />
-      <Footer />
+    <div className={styles.App}>
+      <ServerSelectBar />
+      <ChatroomSelectBar />
+      <ChatWindow />
+      <Users />
     </div>
   );
 }

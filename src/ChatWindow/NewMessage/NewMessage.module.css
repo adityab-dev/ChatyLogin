@@ -1,0 +1,26 @@
+.messageInput input {
+  background: #676767;
+  border: none;
+  width: 90%;
+  height: 3rem;
+  border-radius: 0.75rem;
+  text-align: left;
+  font-size: 1rem;
+}
+
+.messageInput {
+  display: flex;
+  justify-content: center;
+}
+
+*:focus {
+  outline: none;
+}
+
+.messageBtn {
+  margin: 0.5rem 0.5rem;
+  width: 40px;
+  height: 40px;
+  background: #d9d9d9;
+  border-radius: 25px;
+}

@@ -1,0 +1,9 @@
+.chatroom {
+  margin: 0.5rem 0;
+  padding: 0.35rem 1rem;
+  background: #d9d9d9;
+  border-radius: 5px;
+  color: white;
+  width: 80%;
+  /* margin-left: 30px; */
+}
