@@ -1,0 +1,27 @@
+.mainContent {
+  text-align: center;
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.mainContent img {
+  margin-top: 2rem;
+}
+
+.mainText {
+  margin-top: 3rem;
+}
+
+.mainText h1{
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.mainText h3 {
+  font-size: 20px;
+  font-weight: 700;
+}
+
