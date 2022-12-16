@@ -1,0 +1,11 @@
+.msg {
+  display: flex;
+  padding: 15px 0;
+}
+
+.msgBody {
+  margin-left: 15px;
+  color: white;
+  font-weight: 300;
+  font-size: 12px;
+}

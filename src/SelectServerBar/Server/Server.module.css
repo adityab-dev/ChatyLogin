@@ -1,0 +1,14 @@
+.imageContainer {
+  display: flex;
+  background: #676767;
+  border-radius: 25px;
+  padding: 0.5rem;
+  width: calc(10vw - 4.5rem);
+  align-items: center;
+  margin: 0.25rem 0;
+}
+
+.serverImages {
+  width: 100%;
+  height: 100%;
+}

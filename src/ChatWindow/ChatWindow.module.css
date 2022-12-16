@@ -1,0 +1,22 @@
+.chatWindow {
+  width: 50vw;
+  height: 100vh;
+  background: #1e1e1e;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.header {
+  margin: 0rem;
+  width: 100%;
+  background: #414141;
+  color: White;
+}
+
+.header h3 {
+  margin: 0px;
+  margin-left: 25px;
+  font-weight: 300;
+  padding: 15px 0;
+}
